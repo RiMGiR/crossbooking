@@ -31,6 +31,6 @@ owner - lending book
 - If smt goes wrong check [Difficulties](difficulties.md) section
 
 ### Check extra section
-- [Questions]
-- [Rewards]
-- [Difficulties]
+- [Questions](questions.md)
+- [Rewards](reward.md)
+- [Difficulties](difficulties.md)
