@@ -28,4 +28,4 @@ owner - lending book
 - 3 days before the period expires, user receives reminder
 - user and owner negotiate about returning book
 - after deal/swop user and owner have to press the button "Book is returned", "Book is received" - recommend do it immediately after deal.
-- If smt goes wrong check Difficulties section
+- If smt goes wrong check [Difficulties](difficulties.md) section
