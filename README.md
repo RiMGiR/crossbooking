@@ -29,3 +29,8 @@ owner - lending book
 - user and owner negotiate about returning book
 - after deal/swop user and owner have to press the button "Book is returned", "Book is received" - recommend do it immediately after deal.
 - If smt goes wrong check [Difficulties](difficulties.md) section
+
+### Check extra section
+- [Questions]
+- [Rewards]
+- [Difficulties]
